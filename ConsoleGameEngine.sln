@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.489
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleGameEngine", "ConsoleGameEngine\ConsoleGameEngine.vcxproj", "{D1100455-9D10-4D1D-92AB-F31F10E03D61}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameOfLife", "GameOfLife\GameOfLife.vcxproj", "{13E402B0-F7A8-4FBB-8BA7-B385E7DF60B3}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Racer", "Racer\Racer.vcxproj", "{EAF00A56-911E-470D-8B22-5032442C062A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tetris", "Tetris\Tetris.vcxproj", "{113E0CA4-70B9-49AB-925D-94E56BAEF76F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{EAF00A56-911E-470D-8B22-5032442C062A}.Release|x64.Build.0 = Release|x64
 		{EAF00A56-911E-470D-8B22-5032442C062A}.Release|x86.ActiveCfg = Release|Win32
 		{EAF00A56-911E-470D-8B22-5032442C062A}.Release|x86.Build.0 = Release|Win32
+		{113E0CA4-70B9-49AB-925D-94E56BAEF76F}.Debug|x64.ActiveCfg = Debug|x64
+		{113E0CA4-70B9-49AB-925D-94E56BAEF76F}.Debug|x64.Build.0 = Debug|x64
+		{113E0CA4-70B9-49AB-925D-94E56BAEF76F}.Debug|x86.ActiveCfg = Debug|Win32
+		{113E0CA4-70B9-49AB-925D-94E56BAEF76F}.Debug|x86.Build.0 = Debug|Win32
+		{113E0CA4-70B9-49AB-925D-94E56BAEF76F}.Release|x64.ActiveCfg = Release|x64
+		{113E0CA4-70B9-49AB-925D-94E56BAEF76F}.Release|x64.Build.0 = Release|x64
+		{113E0CA4-70B9-49AB-925D-94E56BAEF76F}.Release|x86.ActiveCfg = Release|Win32
+		{113E0CA4-70B9-49AB-925D-94E56BAEF76F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
